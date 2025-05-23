@@ -179,7 +179,7 @@ bot.on('polling_error', error => {
 })
 
 bot.onText(/^\/(start|help)/, msg => {
-  const message = `Author:@GotenAjje Channel: @GotenAjje
+  const message = `Author: @GotenAjje Channel: @GotenAjje
 
 Support me: https://t.me/ModuleGoten/224
 
