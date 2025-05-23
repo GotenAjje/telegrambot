@@ -24,6 +24,6 @@ Setelah bot aktif, gunakan perintah berikut di Telegram:
 `/gambar [deskripsi gambar]` — untuk membuat gambar dari deskripsi  
 Balas gambar + teks — untuk mengedit gambar
 
-## More Information  
-author: https://github.com/RiProG-id  
-re-edited: https://github.com/GotenAjje
+## More Information   
+Author: https://github.com/GotenAjje
+credite: https://github.com/RiProG-id
