@@ -179,7 +179,7 @@ bot.on('polling_error', error => {
 })
 
 bot.onText(/^\/(start|help)/, msg => {
-    const message = `Author: @GotenAjje
+    const message = `Author: @Goten_Reallaccount
 
 Support me: https://t.me/ModuleGoten/224
 
@@ -357,11 +357,12 @@ bot.on('new_chat_members', msg => {
   const isBotAdded = newMembers.some(member => member.id === bot.botInfo.id)
 
   if (isBotAdded) {
-      const startMessage = `Author: @GotenAjje Channel: @GotenAjje
+      const startMessage = `Author: @Goten_Reallaccount Channel: @Gotenajje
 
-Support me: https://t.me/RiOpSo/2848
 
-Source Code: https://github.com/RiProG-id/gemini-telegram-bot
+Support me: https://t.me/ModuleGoten/224
+
+Source Code: https://github.com/GotenAjje/telegrambot
 
 Gunakan perintah:
 /tanya [pertanyaan Anda]
